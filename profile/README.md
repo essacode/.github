@@ -1,4 +1,4 @@
-```zsh
+```console
 essacode@github:~$ ./welcome
 ```
 
@@ -13,9 +13,9 @@ essacode@github:~$ ./welcome
                 ||     ||
 ```
 
-<img align="left" src="https://avatars.githubusercontent.com/u/97017408?s=200&v=4" alt="essacode" width="320" /> 
+<img align="left" src="https://avatars.githubusercontent.com/u/97017408?s=200&v=4" alt="essacode" width="200" /> 
 
-```zsh
+```console
 essacode@github
 -------------------------
 💻 Become software developer on @essacode
